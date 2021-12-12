@@ -1,11 +1,6 @@
 ## X-Power-Pro.
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Niki.Cyber404)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
 
-(I'm on Instagram as @Niki_Cyber404)
-
-(I'm on Facebook as NIKI.CYBER404.OFFICIALS)
-
-
 
 <h1 align="center"> |ERROR PROBLEM FIXED </h1>
 
