@@ -34,7 +34,7 @@ $ git clone https://github.com/Niki404-Cyber/X-Power-Pro.git
 $ cd X-Power-Pro
 $ python2 X-Power-Pro
 
-Note: (This Tools Are Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )
+Note: (This Tools Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )
 ```
 
 # Single Command 
