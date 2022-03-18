@@ -4,11 +4,11 @@
 
 <h1> ERROR PROBLEM FIXED </h1>
 
-</h2> MR.NIKI</h2>
+<h2> MR.NIKI </h2>
 
-</h3> LOGIN WITH ADMIN APPROVE</h3>
+<h3> LOGIN WITH ADMIN APPROVE </h3>
 
-</h4> NEW PRO UID CRACKING TOOLS</h4>
+<h4> NEW PRO UID CRACKING TOOLS </h4>
 
 
 ## <b>installation</b>
