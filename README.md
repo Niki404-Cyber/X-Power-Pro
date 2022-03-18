@@ -2,20 +2,13 @@
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Niki.Cyber404)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
 
 
-<h1 align="center"> |ERROR PROBLEM FIXED </h1>
+<h1> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> |MR.NIKI|</h1>
+</h2> MR.NIKI </h2>
 
-<h2 align="center"> LOGIN WITH ADMIN APPROVE </h2>
+</h3> LOGIN WITH ADMIN APPROVE <h3>
 
-<p align="center">
-     NEW PRO UID CRACKING TOOLS
-</p>
-
-
-
-<p align="center">
-              Mr.NIKI
+</h4> NEW PRO UID CRACKING TOOLS <h4>
 
 
 ## <b>installation</b>
