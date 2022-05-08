@@ -25,7 +25,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/X-Power-Pro.git
 $ cd X-Power-Pro
-$ python2 X-Power-Pro
+$ python X-Power-Pro
 
 Note: (This Tools Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )
 ```
