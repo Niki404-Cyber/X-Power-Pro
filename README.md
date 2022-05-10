@@ -8,7 +8,7 @@
 
 <h3 align="center">LOGIN WITH ADMIN APPROVE </h3>
 
-<h4 align="center">NEW PRO UID CRACKING TOOLS </h4>
+<h4 align="center">NEW PRO UID CRACKING TOOLS  (PAID) </h4>
 
 
 ![20200808_160757](https://github.com/Niki404-Cyber/X-Power-Pro/blob/main/Screenshot_20220510-164542~2.png)
