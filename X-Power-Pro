@@ -1,6 +1,6 @@
 import os, sys, time
 from time import sleep
 try:
-    __import__("run2").__niki__()
+    __import__("xpr").__niki____()
 except Exception as e:
     exit(str(e))
