@@ -1,5 +1,5 @@
 ## X-Power-Pro.
-<b></b> [![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Niki.Cyber404)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
+<b></b> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Niki.Cyber404)<br> ![Instagram](https://img.shields.io/badge/Instagram-Mr.NIKI-hotpink?style=flat-square&logo=instagram)
 
 
 <h1 align="center">ERROR PROBLEM FIXED </h1>
@@ -32,7 +32,7 @@ $ pip2 install mechanize
 $ pkg install git
 $ git clone https://github.com/Niki404-Cyber/X-Power-Pro.git
 $ cd X-Power-Pro
-$ python X-Power-Pro
+$ python Power.py
 
 Note: (This Tools Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )
 ```
