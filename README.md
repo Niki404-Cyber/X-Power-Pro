@@ -40,7 +40,7 @@ Note: (This Tools Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/X-Power-Pro.git ; cd X-Power-Pro; python X-Power-Pro
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/X-Power-Pro.git ; cd X-Power-Pro; python Power.py
 ```
  
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI X-Power-Pro Tools )</br>
